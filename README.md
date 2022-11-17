@@ -9,4 +9,6 @@ sudo apt update
 
 # Install package
 
+```bash
 sudo apt install mobiledgex
+```
