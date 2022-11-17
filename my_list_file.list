@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/edgexr.gpg] https://edgexr.github.io/packages stable main
+deb [signed-by=/etc/apt/trusted.gpg.d/edgexr.gpg] https://edgexr.github.io/packages ./
